@@ -25,4 +25,5 @@
 
 * (必須) AviUtl 1.10 & 拡張編集 0.92 http://spring-fragrance.mints.ne.jp/aviutl/
 * (共存確認) patch.aul r8 https://scrapbox.io/ePi5131/patch.aul
+* (共存確認) eclipse_fast 1.00 https://www.nicovideo.jp/watch/sm39756003
 * (共存確認) 爆速プラグイン 1.06 https://www.nicovideo.jp/watch/sm39679253
